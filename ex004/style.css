@@ -1,1 +1,23 @@
+body {
+    background-color: #CCCCCC; /* Corpo da pagina todo cinza */
+}
 
+#banner {
+    width: 100%; /* Para ocupar 100% da pagina */
+}
+
+h1 {
+    text-align: center; /* Centralizando o h1 */
+}
+
+p {
+    text-align: center; /* Centralizando o parágrafo */
+}
+
+#missao {
+    font-size: 20px; /* Aumentando o tamanho da letra */
+}
+
+em strong {
+    color: hsl(0, 100%, 50%); /* colocando cor vermelha */
+}
